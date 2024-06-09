@@ -8,8 +8,8 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: cluster0.oxzspft.mongodb.net
-      MONGODB_USERNAME: dbAG
+      MONGODB_CLUSTER_ADDRESS: cluster0.iox99vn.mongodb.net
+      MONGODB_USERNAME: dbGA
       MONGODB_PASSWORD: Ft4oVDHTE0fQNbsN
       PORT: 8080
     runs-on: ubuntu-latest
